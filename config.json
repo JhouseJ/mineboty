@@ -1,10 +1,10 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "176.9.32.52:37014",
+    "port": "37014",
     "name": "katy",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "true",
+    "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "",
